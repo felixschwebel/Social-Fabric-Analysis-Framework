@@ -1,0 +1,26 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it using the following metadata."
+title: "Social-Fabric-Analysis-Framework"
+version: "1.0.0"
+doi: "10.5281/zenodo.16509938"
+date-released: 2025-07-27
+repository-code: "https://github.com/felixschwebel/Social-Fabric-Analysis-Framework"
+license: "MIT"
+authors:
+  - family-names: Schwebel
+    given-names: Felix
+    orcid: "https://orcid.org/0009-0002-0864-9966"
+  - family-names: Meynen
+    given-names: Sebastian
+  - family-names: García-Herranz
+    given-names: Manuel
+    orcid: "https://orcid.org/0000-0002-4252-4975"
+keywords:
+  - conflict modeling
+  - finite element analysis
+  - social systems
+  - Python
+  - geospatial simulation
+  - resilience
+abstract: >
+  Social-Fabric-Analysis-Framework is an open-source Python toolkit for simulating the societal impacts of conflict through a computational lens. By treating communities as deformable plates with properties like resilience and vulnerability, and encoding conflict events as external forces, the framework applies finite element analysis (FEA) to assess how violence propagates through social systems. Designed for interdisciplinary use, the tool facilitates integration of socioeconomic data and spatial conflict information for exploratory analysis, scenario testing, and policy-relevant simulations.
