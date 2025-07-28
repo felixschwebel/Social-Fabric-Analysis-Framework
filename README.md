@@ -235,7 +235,7 @@ The framework provides multiple visualization options:
 If you use this software in your research, please cite:
 
 ```bibtex
-@software{schwebel2024social,
+@software{Schwebel2025Social,
   title={Social-Fabric-Analysis-Framework},
   author={Schwebel, Felix and Meynen, Sebastian and García-Herranz, Manuel},
   year={2025},
@@ -246,7 +246,7 @@ If you use this software in your research, please cite:
 
 For the associated research paper:
 ```bibtex
-@article{schwebel2025computational,
+@article{Schwebel2025Computational,
   title={Applying Computational Engineering Modelling to Analyse the Social Impact of Conflict and Violent Events},
   author={Schwebel, Felix and Meynen, Sebastian and García-Herranz, Manuel},
   journal={arXiv preprint arXiv:2503.02771},
