@@ -238,7 +238,7 @@ If you use this software in your research, please cite:
 @software{schwebel2024social,
   title={Social-Fabric-Analysis-Framework},
   author={Schwebel, Felix and Meynen, Sebastian and García-Herranz, Manuel},
-  year={2024},
+  year={2025},
   doi={10.5281/zenodo.16509938},
   url={https://github.com/felixschwebel/Social-Fabric-Analysis-Framework}
 }
