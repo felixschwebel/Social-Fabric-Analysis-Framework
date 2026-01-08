@@ -253,7 +253,9 @@ For the associated research paper:
   volume={27},
   number={10},
   pages={1003},
-  year={2025}
+  year={2025},
+  doi={10.3390/e27101003},
+  url={https://doi.org/10.3390/e27101003}
 }
 ```
 
