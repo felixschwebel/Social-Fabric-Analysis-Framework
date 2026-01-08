@@ -249,7 +249,10 @@ For the associated research paper:
 @article{Schwebel2025Computational,
   title={Applying Computational Engineering Modelling to Analyse the Social Impact of Conflict and Violent Events},
   author={Schwebel, Felix and Meynen, Sebastian and García-Herranz, Manuel},
-  journal={arXiv preprint arXiv:2503.02771},
+  journal={Entropy},
+  volume={27},
+  number={10},
+  pages={1003},
   year={2025}
 }
 ```
